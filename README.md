@@ -9,5 +9,5 @@ One marine is controlled by human, and the other three marines are controlled by
 [video](https://www.youtube.com/watch?v=RmOyKqRcZA4)  
 It has the same setting as last video, except that human's teammate and one of the opponents has a skill, which can freeze some unit for 2 second. Note that there's 8 second cooldown before the next skill is available.  
 ## Sonic
-[video](https://www.youtube.com/watch?v=I1ZRTesPzAk&feature=youtu.be)
+[video](https://www.youtube.com/watch?v=I1ZRTesPzAk&feature=youtu.be)  
 Play Sonic using RL  
